@@ -19,6 +19,8 @@
 
 #include "../../config.h"
 
-// place overrides here
+#define AUTO_SHIFT_TIMEOUT 150
+#define NO_AUTO_SHIFT_ALPHA
+#define NO_AUTO_SHIFT_SPECIAL
 
 #endif
